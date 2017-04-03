@@ -1,4 +1,4 @@
-# MIDS Machine Learining Final Project
+# MIDS Machine Learning Final Project
 Contributors:
 - Riley Rustad
 - I-Ching Wang
